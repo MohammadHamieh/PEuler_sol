@@ -1,3 +1,4 @@
+#problem 2 on project euler
 def fibonacii():
     l =[1,1]
     i = 0
